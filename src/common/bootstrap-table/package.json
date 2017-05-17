@@ -1,0 +1,6 @@
+{
+  "name": "bootstrap-table",
+  "version": "2.1.22",
+  "description": "bootstrap-table proxy",
+  "main": "./index.js"
+}

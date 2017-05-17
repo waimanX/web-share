@@ -1,0 +1,6 @@
+{
+    "name": "bootstrap",
+    "version": "2.1.22",
+    "description": "bootstrap proxy",
+    "main": "./bootstrap.js"
+}
