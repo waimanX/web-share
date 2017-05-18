@@ -6,4 +6,4 @@
 >* npm install
 >* npm start
 
-
+可直接浏览编译后的文件：https://lifenping.github.io/share-web-html/#/
