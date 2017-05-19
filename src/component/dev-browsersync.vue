@@ -22,7 +22,7 @@
 npm install -g browser-sync 
 
 <b>启动服务：</b>
-browser-sync start <options>
+browser-sync start < options>
 命令参考：https://browsersync.io/docs/command-line
 
 <b>常用服务器实例：</b>
